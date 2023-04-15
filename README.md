@@ -1,2 +1,0 @@
-# sashiming
-sashiming DDoS
