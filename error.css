@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+background-color: black;
+color: white;
+}
+    
+h1{
+color: red;
+}
+    
+h2{
+color: red;
+text-decoration: underline;
+}
